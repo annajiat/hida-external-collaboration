@@ -5,3 +5,8 @@ create a folder/directory containing a file named, example: yourname2.txt. Examp
 
 Add some new lines of text.
 
+
+
+
+
+adding another line to this file
